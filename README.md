@@ -4,6 +4,18 @@ A Deep Learning-based Sentiment Analysis System that automatically classifies IM
 
 ---
 
+
+
+
+
+
+
+## Application Preview
+
+![Application Dashboard](dashboard.png)
+
+---
+
 ## Project Overview
 
 Sentiment Analysis is a Natural Language Processing (NLP) task that identifies the emotional tone of textual data. In this project, a SimpleRNN model is trained on the IMDb Movie Reviews dataset to learn sequential word patterns and classify reviews into positive or negative sentiments.
