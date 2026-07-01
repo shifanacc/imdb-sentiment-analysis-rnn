@@ -4,11 +4,13 @@ A Deep Learning-based Sentiment Analysis System that automatically classifies IM
 
 ---
 
+## Live Demo
 
+**Try the application here:**
 
+ **https://imdb-sentiment-analysis-rnn-fttx5uju5myyfl5nwuxfke.streamlit.app/**
 
-
-
+---
 
 ## Application Preview
 
