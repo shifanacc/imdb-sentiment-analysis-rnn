@@ -14,6 +14,10 @@ A Deep Learning-based Sentiment Analysis System that automatically classifies IM
 
 ![Application Dashboard](dashboard.png)
 
+![Positive Sentiment Analysis](positive_sentiment.png)
+
+![Negative Sentiment Analysis](negative_sentiment.png)
+
 ---
 
 ## Project Overview
